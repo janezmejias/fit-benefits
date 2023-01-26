@@ -2,7 +2,7 @@
  *  ProductGenerator
  *  1.0
  *  11/8/22, 8:30 PM
- *  Copyright (c) 2022 Unosquare
+ *  Copyright (c) 2022 juan.anez
  *  Any illegal reproduction of this content will result in immediate legal action.
  */
 
