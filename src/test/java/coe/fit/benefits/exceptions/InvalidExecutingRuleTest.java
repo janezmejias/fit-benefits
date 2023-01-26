@@ -1,11 +1,10 @@
-package coe.unosquare.benefits.exceptions;
+package coe.fit.benefits.exceptions;
 
-import coe.fit.benefits.exceptions.InvalidExecutingRule;
 import coe.fit.benefits.payment.rules.KDiscount;
 import coe.fit.benefits.payment.rules.Rule;
 import coe.fit.benefits.product.helper.ProductHelper;
 import coe.fit.benefits.product.model.Product;
-import coe.unosquare.benefits.util.ProductGenerator;
+import coe.fit.benefits.util.ProductGenerator;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

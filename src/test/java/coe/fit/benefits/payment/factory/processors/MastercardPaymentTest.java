@@ -1,16 +1,16 @@
-package coe.unosquare.benefits.payment.factory.processors;
+package coe.fit.benefits.payment.factory.processors;
 
 import coe.fit.benefits.payment.factory.processors.commons.ProcessorType;
 import coe.fit.benefits.product.helper.ProductHelper;
 import coe.fit.benefits.product.model.Product;
-import coe.unosquare.benefits.util.ProductGenerator;
+import coe.fit.benefits.util.ProductGenerator;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Map;
 
-import static coe.unosquare.benefits.util.PayOrderSimulator.payOrder;
+import static coe.fit.benefits.util.PayOrderSimulator.payOrder;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MastercardPaymentTest {

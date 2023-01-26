@@ -6,7 +6,7 @@
  *  Any illegal reproduction of this content will result in immediate legal action.
  */
 
-package coe.unosquare.benefits.util;
+package coe.fit.benefits.util;
 
 import coe.fit.benefits.order.Order;
 import coe.fit.benefits.order.OrderContext;

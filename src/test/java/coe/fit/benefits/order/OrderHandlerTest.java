@@ -1,13 +1,10 @@
-package coe.unosquare.benefits.order;
+package coe.fit.benefits.order;
 
-import coe.fit.benefits.order.Order;
-import coe.fit.benefits.order.OrderContext;
-import coe.fit.benefits.order.OrderHandler;
 import coe.fit.benefits.payment.factory.processors.commons.ProcessorType;
 import coe.fit.benefits.product.helper.ProductHelper;
 import coe.fit.benefits.product.model.Product;
 import coe.fit.benefits.product.model.ProductType;
-import coe.unosquare.benefits.util.ProductGenerator;
+import coe.fit.benefits.util.ProductGenerator;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
